@@ -1,0 +1,8 @@
+SKU,name,description,warehouse_num
+TSLA001,Model S,"Model S is Tesla flagship electric sedan.",101
+TSLA002,Model 3,"Model 3 is Tesla most affordable electric car.",201
+TSLA003,Model X,"Model X is an electric SUV known for its falcon-wing doors and versatile interior.",321
+TSLA004,Model Y,"Model Y is a compact electric SUV with spacious seating and advanced autopilot features.",123
+TSLA005,Model Plaid S,"Model Plaid S is the high-performance version of the Model S.",435
+TSLA006,Model Plaid X,"Model Plaid X is the high-performance version of the Model X.",150
+TSLA007,Cyber Truck,"Cybertruck is an all-electric, futuristic pickup truck designed by Tesla, Inc.",123
